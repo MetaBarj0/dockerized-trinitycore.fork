@@ -1,0 +1,3 @@
+[submodule "TrinityCore"]
+	path = TrinityCore
+	url = git@github.com:MetaBarj0/TrinityCore.git
